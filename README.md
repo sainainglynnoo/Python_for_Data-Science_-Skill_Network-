@@ -1,1 +1,2 @@
-# Python_for_Data-Science_-Skill_Network-
+This repo contains notebooks (.ipynb file) dilivered from 
+Skill Network (Coursera Course : https://www.coursera.org/learn/python-for-applied-data-science-ai? )
